@@ -1,2 +1,4 @@
 # Arduino_pro_mini
-# MCU-Datalogger-atmega328p
+## Arduino pro mini with USB type C 
+
+built using KiCAD 6
