@@ -1,5 +1,5 @@
 # Arduino_pro_mini
-## Arduino pro mini with USB type C 
+## Arduino pro mini
 
 built using KiCAD 6
 
